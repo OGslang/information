@@ -1,3 +1,3 @@
 # Demo
 
-some demo lear to use github
+some demo lear to use github!
